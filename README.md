@@ -1,6 +1,6 @@
 # PrinterTest
 
-VB6 working copy of `PrinterTest` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Project1.
+VB6 printer remapping utility (`Project1`) that loads a substitute list and replaces or removes installed network printers by old/new server and queue (Task4 over the `Printers` collection, with MSXML/Scripting logging). Open `Project1.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
